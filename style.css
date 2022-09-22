@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-image: url(Images/Tiles);
+    height: 100vh;
+}
+
+.Logo {
+    position: absolute;
+    margin-left: 30%;
+    border: 2px solid black;
+}
+
+.Title {
+    border: 5px solid black;
+    background: orange;
+    margin-top: 100px;
+    width: 400px;
+    padding: 20px 35px;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Information-Box {
+    border: 5px solid black;
+    background: orange;
+    text-align: center;
+    margin-top: 50px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.Information-Box-Title {
+
+}
+
+.Information-Box-Image {
+
+}
+
+.Information-Box-Description {
+
+}
